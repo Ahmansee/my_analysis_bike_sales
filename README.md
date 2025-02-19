@@ -43,3 +43,6 @@ Insight: Educated customers are more likely to purchase bikes, possibly due to h
 
 ## Final Conclusion
 The bike sales data reveals clear demographic and behavioral patterns that can inform targeted marketing, product development, and sales strategies. By focusing on high-purchasing segments, optimizing pricing and promotions, and enhancing the customer experience, the business can maximize revenue and customer satisfaction. Additionally, tapping into under-served markets (e.g., younger and rural customers) and expanding the electric bike lineup present significant growth opportunities. A data-driven, customer-centrist approach will ensure long-term success in the 
+
+
+- <a href="https://github.com/Ahmansee/my_analysis_bike_sales/blob/main/my%20first%20excel%20project.xlsx">View</a>
