@@ -9,6 +9,7 @@ The purpose of this analysis is to examine bike sales data to identify and under
 ## Data Sources:
 Data Source: Kaggle
 Date Retrieved: October 10, 2023
+- <a href="https://github.com/Ahmansee/my_analysis_bike_sales/blob/main/Excel%20Project%20Dataset%20(2).xlsx">Dataset</a>
 
 ## Questions for more insight:
 What percentage of bike buyers are married vs. single?
