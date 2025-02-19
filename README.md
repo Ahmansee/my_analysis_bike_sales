@@ -14,7 +14,7 @@ Date Retrieved: October 10, 2023
 ## Questions for more insight:
 What percentage of bike buyers are married vs. single?
 
-Are there differences in bike preferences (e.g., type, price range) based on gender?
+Are there differences in bike preferences (e.g., type, price range) based on marital status?
 
 What is the education level of bike buyers?
 
@@ -29,7 +29,7 @@ Are there regional preferences for specific bike types?
 No missing values
 Removed 26 duplicate rows
 Converted all dates to YYYY-MM-DD format.
-Standardized gender labels to "Male" and "Female."
+Standardized marital status labels to "Married" and "Single."
 Created age groups
 Use of pivot table to get more insight on the data 
 
